@@ -1,0 +1,7 @@
+{
+  "name": "Traffic Violation Detection System",
+  "description": "AI-powered real-time traffic monitoring and violation detection dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
